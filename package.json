@@ -3,10 +3,9 @@
   "version": "0.1.1",
   "repository": "git@github.com:Musly/utils-base.git",
   "author": {
-    "name": "devbucket",
-    "email": "flomueller1981@gmail.com"
+    "name": "Musly",
+    "email": "info@musly.app"
   },
-  "contributors": [],
   "license": "Apache-2.0",
   "dependencies": {
     "eslint-config-airbnb-base": "^14.2.1",
